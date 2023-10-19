@@ -16,15 +16,14 @@ Read or watch:
 - [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
 
 ## *General:*
-The language used in this project is : Python.
+The language used in this project is: Python.
 
 The standard Ubuntu 20.04 LTS is mandatory.
 
-For running the project use this command : 
-
-´´´
+For running the project use this command: 
+```
 time ./file tests/test(number)
-´´´
+```
 
 ## *Tasks:*
 
