@@ -18,7 +18,12 @@ Read or watch:
 ## *General:*
 The language used in this project is : Python.
 
-The standard Ubuntu 20.04 LTS is mandatory for compiling this project.
+The standard Ubuntu 20.04 LTS is mandatory.
+
+For running the project use this command : 
+´´´
+time ./file tests/test(number)
+´´´
 
 ## *Tasks:*
 
