@@ -10,7 +10,7 @@ By: Julien Barbier
 
 Read or watch:
 
-- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+- [RSA](https://en.wikipedia.org/wiki/RSA_cryptosystem%29)
 - [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
 - [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
 - [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
@@ -55,6 +55,13 @@ This task is the same as task 0, except:
 How far can you go in less than 5 seconds?
 
 - Read: [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
+
+
+
+
+
+
+
 
 
 
