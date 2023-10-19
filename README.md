@@ -16,7 +16,8 @@ Read or watch:
 - [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
 
 ## *General:*
-The language used in this project is :
+The language used in this project is : Python.
+
 The standard Ubuntu 20.04 LTS is mandatory for compiling this project.
 
 ## *Tasks:*
